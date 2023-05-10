@@ -1,0 +1,2 @@
+# Gocode
+Asignaciones para paradigmas
